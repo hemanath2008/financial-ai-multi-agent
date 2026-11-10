@@ -1,0 +1,22 @@
+# API keys
+.env
+.env.*
+
+!.env.example
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
